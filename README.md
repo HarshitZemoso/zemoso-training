@@ -39,8 +39,3 @@ git commit -m "First Commit in new_branch"
 git push origin new_branch
 Merge new_branch to the previous branch.
 
-Step 6.By using checkout command we can switch to the master branch and merge both the branches by using following commands
-
- git checkout
- git merge new_branch
-Clone the repository from the Git to local repository in some folder
