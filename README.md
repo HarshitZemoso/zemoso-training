@@ -44,10 +44,3 @@ Step 6.By using checkout command we can switch to the master branch and merge bo
  git checkout
  git merge new_branch
 Clone the repository from the Git to local repository in some folder
-
-STEP 7. By creating a new directory git_clone_repo and initializing git in this folder,clone the git repository
-
- mkdir git_clone_repo
- cd git_clone_repo
- git init
- git clone url
